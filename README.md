@@ -1,10 +1,9 @@
 Trojan Install Introduction
-----------------------------
+---------------------------
 
 **!!!Don't Fork and Don't Star!!!**
 
-**!!!请不上Fork！也请不要Star!!!**
-
+**!!!请不要Fork！也请不要Star!!!**
 
 ## 安装方法
 
